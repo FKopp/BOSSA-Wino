@@ -1,4 +1,4 @@
-BOSSA 1.4 for Arduino
+BOSSA 1.4 for Wino board and Arduino
 
 This version of BOSSA is a fork of the original project and contains some
 patches specific for the Arduino products that are unlike to be accepted
